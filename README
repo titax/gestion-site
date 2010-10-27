@@ -4,7 +4,7 @@
 
 
  Permet de:                                                                     
- >>   Creer un compte user avec sa home directory /home/$user                   
+ >>   Créer un compte user avec sa home directory /home/$user                   
 	Site accessible en www (www.domaine.com pointe vers /home/$user/www     
 	Alias illimites (ex: linux.domaine.com pointe vers /home/u$ser/linux    
- >> Creation d'une base MySql 
+ >>   Création d'une base MySql 
