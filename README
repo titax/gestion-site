@@ -1,7 +1,7 @@
  @auteur :      Thierry
  @date :        10 octobre 2006
  @version :     0.2
-
+ @contact :     http://blog.titax.fr
 
  Permet de:                                                                     
  >>   Créer un compte user avec sa home directory /home/$user                   
